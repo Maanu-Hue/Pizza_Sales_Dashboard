@@ -1,9 +1,9 @@
-#🍕 Pizza Sales Data Analysis Project
+🍕 #Pizza Sales Data Analysis Project
 
 Welcome to the Pizza Sales Data Analysis Project!
 This project analyzes pizza order trends to uncover insights related to sales performance, customer preferences, peak ordering times, and product demand. The dashboard is built entirely in Microsoft Excel with KPIs, slicers, and visualizations for interactive analysis.
 
-📊 Project Overview
+📊 #Project Overview
 
 This project includes:
 
