@@ -61,9 +61,9 @@ This project includes:
 * Interactive slicers (Month, Category, Size)
 * Clean and modern KPI cards
 * Trend, pie, and bar charts for easy interpretation
-  
----
 - Dashboard Interaction <a href="https://github.com/Maanu-Hue/Pizza_Sales_Dashboard/blob/main/Screenshot%202025-12-02%20210749.png">View Dashboard</a>
+
+---
 
 ## 📌 Summary
 
