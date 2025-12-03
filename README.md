@@ -64,6 +64,9 @@ This project includes:
 - Dashboard Interaction <a href="https://github.com/Maanu-Hue/Pizza_Sales_Dashboard/blob/main/Screenshot%202025-12-02%20210749.png">View Dashboard</a>
 
 ---
+## Dashboard 
+![Uploading Screenshot 2025-12-02 210749.png…](https://github.com/Maanu-Hue/Pizza_Sales_Dashboard/blob/main/Screenshot%202025-12-02%20210749.png)
+
 
 ## 📌 Summary
 
