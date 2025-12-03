@@ -26,7 +26,7 @@ This project includes:
 | **pizza_sales_dashboard.xlsx** | Final Excel dashboard with KPIs, charts, slicers, and insights                |
 | **dashboard_screenshot.png**   | Screenshot of the final dashboard for preview                                 |
 
-## Data
+## 🗂️Data Files
 - <a href="https://github.com/Maanu-Hue/Pizza_Sales_Dashboard/blob/main/Pizza_Sales.xlsx">Pizza_Sales_Data </a>
 - <a href="https://github.com/Maanu-Hue/Pizza_Sales_Dashboard/blob/main/Pizza_Sales_Dashboard.xlsx">Pizza_Sales_Dashboard </a>
 
@@ -40,8 +40,7 @@ This project includes:
   * Pivot Charts
   * Slicers
   * Data Cleaning
-* Exploratory Data Analysis (EDA)
-
+    
 ---
 
 ## 📈 Key Insights
@@ -62,9 +61,9 @@ This project includes:
 * Interactive slicers (Month, Category, Size)
 * Clean and modern KPI cards
 * Trend, pie, and bar charts for easy interpretation
-* Professional layout suitable for portfolio and job applications
-
+  
 ---
+- Dashboard Interaction <a href="https://github.com/Maanu-Hue/Pizza_Sales_Dashboard/blob/main/Screenshot%202025-12-02%20210749.png">View Dashboard</a>
 
 ## 📌 Summary
 
@@ -75,7 +74,6 @@ It showcases skills in:
 * Pivot table analysis
 * Dashboard creation
 * Business insights
-* Visualization & storytelling
-
+* Visualization
 ---
 
